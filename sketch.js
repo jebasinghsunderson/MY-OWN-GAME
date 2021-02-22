@@ -9,7 +9,7 @@ const FOUR=4
 const BEFORE=5
 const END=6
 const WIN=7
-var gameState=5
+var gameState=1
 var shadow,shadowimg;
 var backgroundimg;
 var arrow,arrowimg;
