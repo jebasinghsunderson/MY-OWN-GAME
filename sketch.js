@@ -95,8 +95,9 @@ function draw(){
     textSize(100)
     text("HOW TO PLAY:",200,200);
     textSize(70)
-    text("DRAG YOUR MOUSE TO SHOOT THE ARROW YOU HAVE 20 CHANCES",900,700);
-    text("AFTER 20 CHANCES YOU CAN'T PLAY THE GAME",900,800);
+    text("DRAG YOUR MOUSE TO SHOOT AND PRESS SPACE TO RELOAD",900,700);
+    text("YOU HAVE 20 CHANCES",900,800);
+    text("AFTER 20 CHANCES YOU CAN'T PLAY THE GAME",900,900);
     text("PRESS 'm' to continue",2400,1000);
     
   }
